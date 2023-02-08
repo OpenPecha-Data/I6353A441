@@ -1,0 +1,16 @@
+id: I6353A441
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:05:19.264745
+last_modified: 2023-02-08 15:05:19.264937
+source_metadata:
+  title: Gaganagañjaparipṛcchā
+  language: bo
+bases:
+  354D:
+    base_file: 354D.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
